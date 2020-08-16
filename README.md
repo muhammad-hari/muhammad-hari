@@ -9,31 +9,32 @@ My name is Muhammad Hari and I'm a software developer (as a full stack developer
 Apart from coding, I also maintain a blog - you can find my articles on my website at [codewizards.com](https://codewizards.com/) as well as on [Medium](https://medium.com/@muhammadhari) and [DEV.to](https://dev.to/muhammadhari).
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-Visual-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=67217A)
-![](https://img.shields.io/badge/Editor-Visual-Studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Editor-Visual%20Code-Code?style=flat&logo=visual-studio-code&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Editor-Visual%20Studio-Code?style=flat&logo=visual-studio&logoColor=white&color=67217A)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=67217A)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=67217A)
-![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=javascript&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Code-JSON-informational?style=flat&logo=json&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Code-XML-informational?style=flat&logo=xml&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Code-CSharp-Code?style=flat&logo=cs&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Tools-WPF-Code?style=flat&logo=windows&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Tools-WindowsForm-Code?style=flat&logo=windows&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Framework-.NET%20Framework-Code?style=flat&logo=dotnet&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Framework-.NET%20Core-Code?style=flat&logo=dotnet&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Code-React%20Native-Code?style=flat&logo=react&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Code-ReactJs-Code?style=flat&logo=react&logoColor=white&color=67217A)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=67217A)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=67217A)
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/muhammad-hari/muhammad-hari">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-hari&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/muhammad-hari/muhammad-hari">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-hari&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hari's GitHub Stats" />
 </a>
-
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
 
 <!-- links to social media icons -->
 
@@ -51,9 +52,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://twitter.com/muhammadhari
+[2]: https://github.com/muhammadhari
+[3]: https://www.linkedin.com/in/muhammadhari/
 
 
 <!-- Resources -->
