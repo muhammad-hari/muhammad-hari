@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
-# Hi, Nice to see you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, Nice to see you! <img src="https://raw.githubusercontent.com/muhammad-hari/muhammad-hari/master/cool.gif" width="30px">
 
 My name is Muhammad Hari and I'm a software developer (as a full stack developer). I'm from Indonesia, living in Bogor and currently working at Syntech (RDS Group). I love to explore and learn about new things. You can find me on [![Dev][1.2]][1], or on [![LinkedIn][3.2]][3].
 
