@@ -9,7 +9,8 @@ My name is Muhammad Hari and I'm a software developer (as a full stack developer
 Apart from coding, I also maintain a blog - you can find my articles on my website at [codewizards.com](https://codewizards.com/) as well as on [Medium](https://medium.com/@muhammadhari) and [DEV.to](https://dev.to/muhammadhari).
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Editor-Visual-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=67217A)
+![](https://img.shields.io/badge/Editor-Visual-Studio-informational?style=flat&logo=visual-studio-code&logoColor=white&color=67217A)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=67217A)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=67217A)
 ![](https://img.shields.io/badge/Code-ReactNative-informational?style=flat&logo=javascript&logoColor=white&color=67217A)
