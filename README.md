@@ -1,6 +1,6 @@
 # Hi, Nice to see you! <img src="https://raw.githubusercontent.com/muhammad-hari/muhammad-hari/master/cool.gif" width="30px">
 
-My name is <b>Muhammad Hari</b> and I'm a software developer (as a full stack developer). I'm from ![alt text](https://raw.githubusercontent.com/muhammad-hari/muhammad-hari/master/indonesia.png), living in Bogor and currently working at Syntech (RDS Group). I love to explore and learn about new things. You can find me on [LinkedIn](https://www.linkedin.com/in/muhammad-hari/)[3.2]][3].
+My name is <b>Muhammad Hari</b> and I'm a software developer (as a full stack developer). I'm from ![alt text](https://raw.githubusercontent.com/muhammad-hari/muhammad-hari/master/indonesia.png), living in Bogor and currently working at Syntech (RDS Group). I love to explore and learn about new things. You can find me on [LinkedIn](https://www.linkedin.com/in/muhammad-hari/).
 
 ## &#x270d; Blog & Writing
 
