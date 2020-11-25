@@ -1,10 +1,10 @@
 # Hi, Nice to see you! <img src="https://raw.githubusercontent.com/muhammad-hari/muhammad-hari/master/cool.gif" width="30px">
 
-My name is <b>Muhammad Hari</b> and I'm a software developer (as a full stack developer). I'm from ![alt text](https://raw.githubusercontent.com/muhammad-hari/muhammad-hari/master/indonesia.png), living in Bogor and currently working at Syntech (RDS Group). I love to explore and learn about new things. You can find me on [LinkedIn](https://www.linkedin.com/in/muhammad-hari/).
+I'm <b>Hari</b> a Full Stack Developer which focuses on .NET/Core. Currently working as Web Programmer Senior Associate at Syntech (RDS Group). I have experienced in .NET Development using C#, ASP.NET. I also have experienced in ReactJs/Native You can find me on [LinkedIn](https://www.linkedin.com/in/muhammad-hari/).
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [codewizards.com](https://codewizards.com/) as well as on [Medium](https://medium.com/@muhammadhari) and [DEV.to](https://dev.to/muhammadhari).
+Apart from coding, I also maintain a blog - you can find my articles on my social network at [DEV.to](https://dev.to/muhammadhari) as well as on [Medium](https://medium.com/@muhammadhari).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Visual%20Code-Code?style=flat&logo=visual-studio-code&logoColor=white&color=67217A)
