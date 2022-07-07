@@ -1,6 +1,6 @@
 # Hi, Nice to see you! <img src="https://raw.githubusercontent.com/muhammad-hari/muhammad-hari/master/cool.gif" width="30px">
 
-I'm <b>Hari</b> a Full Stack Developer which focuses on .NET/Core. Currently working as a web programmer Senior Associate at Syntech (RDS Group). I have experienced in .NET Development using C#, ASP.NET. I also have experienced in Angular.
+I'm <b>Hari</b> a Full Stack Developer which focuses on .NET/Core. Currently working as a Senior Full Stack Developer at Syntech (RDS Group). I have experienced in .NET Development using C#, ASP.NET. I also have experienced in Angular.
 
 ## &#x270d; Blog & Writing
 
